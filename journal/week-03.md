@@ -92,10 +92,6 @@ An exception I found concerning how the date normalization works: `PHO-089` has 
 
 ---
 
-When would a separate subject table be preferable to storing several subjects in one cell?
-
----
-
 Duplicates facet: 
 
 _Ask whether identical titles are sufficient evidence that the records describe the same object._
