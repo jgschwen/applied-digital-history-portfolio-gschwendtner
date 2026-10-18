@@ -1,6 +1,6 @@
 # Week 3 Journal
 
-**Topic:** 
+**Topic:** Cleaning and Normalizing Historical Data:	OpenRefine
 
 ## 1. What material did I work with?
 
